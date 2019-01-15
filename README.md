@@ -1,4 +1,5 @@
 ## ML-A03: K-Means Clustering Algorithm
+Implementation of K-Means Clustering Algorithm for Assignment 03 of the course CS6375: Machine Learning. 
 
 - [Rahul Nalawade](https://github.com/rahul1947) 
 
