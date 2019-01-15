@@ -13,13 +13,11 @@
 ### How to Run:
 
 **1. Compilation:**
-
 ```
 $ javac KMeans.java
 ```
 
 **2. EXECUTION:**
-
 ``` 
 $ java KMeans <INPUTIMAGE> <KVALUE> <OUTPUTIMAGE>
 Example:
